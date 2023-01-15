@@ -1,0 +1,20 @@
+{
+  "name": "oicq-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-schedule": "^2.1.0",
+    "oicq": "^2.1.4",
+    "ws": "^8.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.6.1"
+  }
+}
